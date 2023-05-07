@@ -5,3 +5,9 @@
     height: 900px;
     display: flex;
 }
+
+.results {
+    position: absolute;
+    top: 100;
+    left: 50%;
+}
